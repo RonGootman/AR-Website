@@ -1,0 +1,66 @@
+[
+    {
+        "path": "/en/post/article",
+        "matchPath": "/en/post/article"
+    },
+    {
+        "path": "/en/post/artigo",
+        "matchPath": "/en/post/artigo"
+    },
+    {
+        "path": "/he/post/article",
+        "matchPath": "/he/post/article"
+    },
+    {
+        "path": "/he/post/artigo",
+        "matchPath": "/he/post/artigo"
+    },
+    {
+        "path": "/en/404.html",
+        "matchPath": "/en/404.html"
+    },
+    {
+        "path": "/en/about/",
+        "matchPath": "/en/about/"
+    },
+    {
+        "path": "/en/articles",
+        "matchPath": "/en/articles"
+    },
+    {
+        "path": "/en/dev-404-page/",
+        "matchPath": "/en/dev-404-page/"
+    },
+    {
+        "path": "/he/404.html",
+        "matchPath": "/he/404.html"
+    },
+    {
+        "path": "/he/about/",
+        "matchPath": "/he/about/"
+    },
+    {
+        "path": "/he/articles",
+        "matchPath": "/he/articles"
+    },
+    {
+        "path": "/he/dev-404-page/",
+        "matchPath": "/he/dev-404-page/"
+    },
+    {
+        "path": "/en/",
+        "matchPath": "/en/"
+    },
+    {
+        "path": "/he/",
+        "matchPath": "/he/"
+    },
+    {
+        "path": "/en/404/",
+        "matchPath": "/en/*"
+    },
+    {
+        "path": "/he/404/",
+        "matchPath": "/he/*"
+    }
+]
