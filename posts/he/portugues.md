@@ -1,6 +1,6 @@
 ---
 lang: he
-title: "Artigo em português"
+title: "מאמר בעברית"
 slug: artigo
 date: 2020-07-12
 category: post
