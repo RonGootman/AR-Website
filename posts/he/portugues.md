@@ -1,12 +1,11 @@
 ---
 lang: he
-title: "מאמר בעברית"
+title: מאמר בעברית
 slug: artigo
 date: 2020-07-12
 category: post
 ---
-
-### Texto em português
+### מאמר בעברית
 
 Silvio Santos Ipsum Você veio da caravana de ondeammm? Ma vejam só, vejam só. Ma! Ao adquirir o carnê do Baú, você estará concorrendo a um prêmio de cem mil reaisam. É por sua conta e riscoamm? Mah você não consegue né Moisés? Você não consegueam. É dinheiro ou não éam? Eu não queria perguntar isso publicamente, ma vou perguntar. Carla, você tem o ensino fundamentauam?
 
