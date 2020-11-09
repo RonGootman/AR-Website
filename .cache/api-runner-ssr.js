@@ -1,6 +1,6 @@
 var plugins = [{
-      plugin: require('/Users/rongootman/dev/gatsby-multi-lang-netlify-cms/node_modules/gatsby-plugin-intl/gatsby-ssr'),
-      options: {"plugins":[],"path":"/Users/rongootman/dev/gatsby-multi-lang-netlify-cms/src/intl","languages":["he","en"],"defaultLanguage":"he","redirect":false},
+      plugin: require('/Users/rongootman/dev/AR-Website/node_modules/gatsby-plugin-intl/gatsby-ssr'),
+      options: {"plugins":[],"path":"/Users/rongootman/dev/AR-Website/src/intl","languages":["he","en"],"defaultLanguage":"he","redirect":false},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
 // var plugins = [
